@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Valor del Peso Argentino en Tiempo Real</title>
+  <meta name="description" content="Consulta la cotización del dólar oficial y blue en tiempo real. Información confiable, actualizada y sin publicidad invasiva.">
+  <meta name="keywords" content="peso argentino, dólar oficial, dólar blue, cotización dólar, cotización en tiempo real">
+  <meta name="author" content="Luis - Hecho en Argentina 🇦🇷">
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://tusitio.com/" />
+  <meta property="og:title" content="Valor del Peso Argentino en Tiempo Real" />
+  <meta property="og:description" content="Consulta cuánto vale el dólar oficial y el dólar blue. Información confiable y sin publicidad invasiva." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://tusitio.com/logo.png" />
+  <meta property="og:url" content="https://tusitio.com/" />
+
+  <!-- SEGURIDAD -->
+  <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*; script-src 'self' https://api.bluelytics.com.ar https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;"> -->
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=()">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css"/>
+  
+</head>
+<body>
+
+  <header role="banner" style="height: 15%;">
+    <h1 aria-label="Valor del peso argentino">Valor del dolar</h1>
+  </header>
+
+  <main class="container" role="main">
+    <!-- CARD DÓLAR OFICIAL -->
+    <div class="card" aria-label="Cotización dólar oficial">
+      <div class="card-body">
+        <div class="currency-name">💵 Dólar Oficial</div>
+        <div class="value" id="oficial">Cargando...</div>
+      </div>
+    </div>
+
+    <!-- CARD DÓLAR BLUE -->
+    <div class="card" aria-label="Cotización dólar blue">
+      <div class="card-body">
+        <div class="currency-name">💸 Dólar Blue</div>
+        <div class="value" id="blue">Cargando...</div>
+      </div>
+    </div>
+  </main>
+  <script type="text/javascript" src="js/index.js"></script>
+
+</body>
+</html>

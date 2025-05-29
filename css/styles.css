@@ -1,0 +1,46 @@
+body {
+      background: linear-gradient(145deg, #d0ecff, #ffffff);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      align-items: center;
+      font-family: 'Segoe UI', sans-serif;
+      padding-top: 80px;
+    }
+    header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: #4682B4;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      z-index: 1000;
+    }
+    .card {
+      margin: 20px auto;
+      max-width: 400px;
+      border: none;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .card-body {
+      text-align: center;
+    }
+    .currency-name {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+    .value {
+      font-size: 1.50rem;
+      color: #4682B4;
+      margin: 10px 0;
+    }
+    footer {
+      margin-top: auto;
+      padding: 20px;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+    }
