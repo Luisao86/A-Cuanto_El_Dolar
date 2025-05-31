@@ -2,3 +2,33 @@
 Cotización en tiempo real del dolar oficial y blue
 
 [![Captura-de-pantalla-2025-05-29-160001.png](https://i.postimg.cc/mkHfMtsN/Captura-de-pantalla-2025-05-29-160001.png)](https://postimg.cc/kRqpPMDB)
+
+
+## 📌 4. Diferencias principales entre **Subversion (SVN)** y **Git**
+
+| Característica            | Subversion (SVN)                                | Git                                             |
+|---------------------------|--------------------------------------------------|--------------------------------------------------|
+| 🧭 Modelo de versiones     | Centralizado: un único repositorio principal     | Distribuido: cada copia es un repositorio completo |
+| ⚡ Velocidad               | Operaciones más lentas (requiere conexión)       | Operaciones locales, mucho más rápidas          |
+| 🌿 Manejo de ramas         | Ramas pesadas, como carpetas dentro del repo     | Ramas livianas, fáciles de crear y usar         |
+| 🔄 Trabajo offline         | Limitado, requiere conexión constante            | Totalmente funcional sin conexión               |
+| 🤝 Trabajo colaborativo   | Más propenso a conflictos en paralelo             | Mejor gestión con herramientas como merge/rebase |
+
+---
+
+## 🚀 5. Diferencias principales entre **GitLab** y **GitHub**
+
+| Característica            | GitHub                                            | GitLab                                           |
+|---------------------------|---------------------------------------------------|--------------------------------------------------|
+| 🏢 Propiedad               | Microsoft                                          | GitLab Inc. (Open Source Community Edition)      |
+| 🔧 CI/CD                   | GitHub Actions, potente pero más reciente         | CI/CD integrado nativamente desde el principio   |
+| 📁 Gestión de proyectos    | Kanban básico, pull requests, issues              | Gestión avanzada: boards, issues, epics, milestones |
+| 🔒 Repos privados          | Gratis con límites                                 | Siempre disponibles incluso en plan gratuito     |
+| 🖥️ Autohospedaje           | No disponible                                     | Sí, instalable en tu propio servidor             |
+
+> 💡 **Conclusión:**  
+> Git es una herramienta moderna, rápida y distribuida que reemplaza muchas de las limitaciones de SVN.  
+> GitHub y GitLab ofrecen entornos similares, pero GitLab destaca en personalización y control, ideal para equipos DevOps o privados.
+
+---
+
