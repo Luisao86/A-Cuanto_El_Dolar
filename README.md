@@ -16,7 +16,7 @@ Este curso está orientado a enseñar cómo planificar, desarrollar y versionar 
 
 ## Proyecto del Estado Argentino clonado
 
-Se incorporó el proyecto `argob-estandares`, que forma parte de la iniciativa del Estado Argentino para brindar acceso a datos abiertos y servicios digitales. El objetivo de este proyecto es [explicar función del proyecto].
+Se incorporó el proyecto `argob-estandares`, que forma parte de la iniciativa del Estado Argentino para brindar acceso a datos abiertos y servicios digitales.
 =======
 
 [![Captura-de-pantalla-2025-05-29-160001.png](https://i.postimg.cc/mkHfMtsN/Captura-de-pantalla-2025-05-29-160001.png)](https://postimg.cc/kRqpPMDB)
