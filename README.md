@@ -49,5 +49,10 @@ Se incorporó el proyecto `some-project`, que forma parte de la iniciativa del E
 > GitHub y GitLab ofrecen entornos similares, pero GitLab destaca en personalización y control, ideal para equipos DevOps o privados.
 
 ---
+## 📄 Hoja de referencia de Git
+
+Se ha agregado una hoja de referencia rápida de Git en español al repositorio. Este recurso proporciona un resumen de los comandos más utilizados en Git, facilitando su consulta durante el desarrollo del proyecto.
+
+Puedes descargarla directamente desde [github-git-cheat-sheet.pdf](./github-git-cheat-sheet.pdf).
 
 >>>>>>> 5ab3a6182f7ea38c5bf46d0427bb9390e362ffab
